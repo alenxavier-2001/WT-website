@@ -114,5 +114,21 @@ h1{
 	padding: 10px 10px;
 
 }
+footer{
+	text-align: center;
+	padding-bottom: 25px;
+	
+}
+.footertext{
+	color: #fff;
+}
 
+
+
+.foot{
+	width: 100%;
+    height: 9vh;
+	padding: 10px;
+    background-image: linear-gradient(170deg, #2521fe, rgb(132, 133, 185));
+}
 
